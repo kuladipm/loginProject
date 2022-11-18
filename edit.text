@@ -1,0 +1,3 @@
+Git Flow / Git Branching Model
+Git flow is the set of guidelines that developers can follow when using Git. We cannot say these guidelines as rules. These are not the rules; it is a standard for an ideal project. So that a developer would easily understand the things.
+It is referred to as Branching Model by the developers and works as a central repository for a project. Developers work and push their work to different branches of the main repository
